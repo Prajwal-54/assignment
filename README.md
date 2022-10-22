@@ -28,7 +28,7 @@ Latte              100      125       150
 </pre>
 ### solution :
 
-solution link : [https://github.com/Prajwal-54/assignment-intern/blob/main/question1.js](https://github.com/Prajwal-54/assignment-intern/blob/main/question1.js)
+solution link : [https://github.com/Prajwal-54/assignment-intern/blob/main/question2.js](https://github.com/Prajwal-54/assignment-intern/blob/main/question2.js)
 
 
 
