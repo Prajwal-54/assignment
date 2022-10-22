@@ -4,7 +4,7 @@ Write a program that takes as input a sorted array of numbers. The objective is 
 
 ### solution :
 
-solution link : [https://github.com/Prajwal-54/assignment-intern/blob/main/question1.js](https://github.com/Prajwal-54/assignment-intern/blob/main/question1.js)<br/>
+solution link : [https://github.com/Prajwal-54/assignment/blob/main/question1.js](https://github.com/Prajwal-54/assignment/blob/main/question1.js)<br/>
 <pre>
 TIME COMPLEXITY : O(n)<br/>
 SPACE COMPLEXITY : O(1)<br/>
@@ -28,7 +28,7 @@ Latte              100      125       150
 </pre>
 ### solution :
 
-solution link : [https://github.com/Prajwal-54/assignment-intern/blob/main/question2.js](https://github.com/Prajwal-54/assignment-intern/blob/main/question2.js)
+solution link : [https://github.com/Prajwal-54/assignment/blob/main/question2.js](https://github.com/Prajwal-54/assignment/blob/main/question2.js)
 
 
 
